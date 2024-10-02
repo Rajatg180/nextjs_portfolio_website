@@ -34,7 +34,7 @@ function Hero() {
 
                 {/* Button  */}
                 <a
-                  href="https://drive.google.com/file/d/1lgLhRIOaq_kNwVbcT-xgvw6adYMrx3Fz/view?usp=drivesdk "
+                  href="https://drive.google.com/file/d/1SmSCJ7Ie1gJR_C6_60Kn27gEUiLKAiCe/view?pli=1"
                   download="Rajat's Resume"
                   target="_blank"
                 >
