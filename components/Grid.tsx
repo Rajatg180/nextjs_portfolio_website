@@ -17,7 +17,6 @@ function Grid() {
             titleClassName,
             spareImg,
           },
-          i
         ) => (
           <BentoGridItem
             id={id}
