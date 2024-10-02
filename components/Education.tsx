@@ -1,8 +1,6 @@
 import { education } from "@/data";
 import React from "react";
-import { Button } from "@/components/ui/moving-border";
 import { CardSpotlight } from "./ui/card-spotlight";
-import { BackgroundBeamsWithCollision } from "./ui/background-beams-with-collision";
 import { FaCalendar } from "react-icons/fa";
 
 const Education = () => {

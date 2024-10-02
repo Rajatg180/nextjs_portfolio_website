@@ -1,5 +1,4 @@
 import { cn } from "@/lib/utils";
-import { BackgroundGradientAnimation } from "./background-gradient-animation";
 import GridGlobe from "./GridGlobe";
 
 export const BentoGrid = ({
@@ -30,8 +29,6 @@ export const BentoGridItem = ({
   className,
   title,
   description,
-  header,
-  icon,
 }: {
   className?: string;
   title?: string | React.ReactNode;

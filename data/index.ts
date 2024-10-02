@@ -126,7 +126,7 @@ export const projects = [
     des: "Developed a dynamic and responsive portfolio website using Next.js, Tailwind CSS, Aceternity UI, and TypeScript, featuring a modern, visually appealing design.",
     img: "/portfolio.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg","/act.png"],
-    link: "https://github.com/Rajatg180",
+    link: "https://github.com/Rajatg180/nextjs_portfolio_website",
     category: "Web",
   },
 ];
