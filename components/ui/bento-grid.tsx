@@ -44,16 +44,17 @@ export const BentoGridItem = ({
   const leftLists = ["React.js", "Express.js", "Next.js"];
   const rightLists = ["Node.js", "Redux", "Flutter"];
 
-  const last1 = ["C/C++", "Core Java"];
+  const last1 = ["C/C++", "Golang"];
   const last2 = ["Javascript", "Typescript"];
-  const last3 = ["Sql", "Dart"];
-  const last4 = ["HTML", "CSS"];
+  const last3 = ["Core Java", "Dart"];
+  const last4 = ["HTML/CSS", "Sql"];
 
-  const slast1 = ["Tailwind", "MongoDB"];
-  const slast2 = ["Firebase", "Postman"];
-  const slast3 = ["DSA", "OOP"];
+  const slast1 = ["PostgreSQL", "CI/CD"];
+  const slast2 = ["Tailwind", "MongoDB"];
+  const slast3 = ["Firebase", "Postman"];
   const slast4 = ["Git", "GitHub"];
-  const slast5 = ["CN", "OS"];
+  const slast5 = ["DSA", "OOP"];
+
 
   return (
     <div

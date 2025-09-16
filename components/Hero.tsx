@@ -28,13 +28,13 @@ function Hero() {
 
                 {/* Text Generation Effect */}
                 <TextGenerateEffect
-                  words="I'm Rajat Gore, I'm a full-stack web and mobile developer who loves building apps and websites that work smoothly and looks great."
+                  words="I'm Rajat Gore, a Full-stack web and mobile developer with expertise in building scalable, high-performance applications and delivering seamless, user-friendly experiences."
                   className="font-sans pt-5 text-wrap text-center font-medium text-sm sm:text-2xl md:text-3xl lg:text-4xl"
                 />
 
                 {/* Button  */}
                 <a
-                  href="https://drive.google.com/file/d/1SmSCJ7Ie1gJR_C6_60Kn27gEUiLKAiCe/view?pli=1"
+                  href="https://drive.google.com/drive/folders/1SSQ8p_NR3XFkRp_vmEpmVUUtumo_9hCy"
                   download="Rajat's Resume"
                   target="_blank"
                 >

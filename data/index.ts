@@ -134,21 +134,21 @@ export const projects = [
 
 // workExperience Data
 export const workExperience = [
-  {
+   {
     id: 1,
-    title: "Mobile App Developer Intern - ExpandX Pvt Ltd ",
-    duration: "1st Feb 23 - 31st March 23",
-    desc: "• Designed and implemented user interface (UI) for the ExpandX app, integrate REST API for allowing seamless communication between the app and external server/database. • Utilized Flutter framework and Dart programming language to develop and implement various features and functionalities of the ExpandX app. • Worked on Firebase for real-time data synchronization, authentication, and cloud storage, enhancing the overall performance and reliability of the app.",
+    title: "Software Developer - Borm Bruckmeier Infotech India Pvt. Ltd ",
+    duration: "October 24 - Present",
+    desc: "• Developed cross-platform medical applications using Flutter, applying clean architecture and the BLoC pattern to deliver maintainable, scalable solutions across Android, iOS, and Web. \n• Engineered offline-first capabilities with local storage and background sync, enabling seamless usage in lowconnectivity hospital environments. \n• Optimized Flutter Web performance by 40% through efficient data fetching, caching, and API integration, reducing load times and enhancing responsiveness. \n• Delivered CE-certified clinical apps and web applications, including IDSA, EAU, Rheuma, and EHA, used globally by healthcare professionals to improve diagnostic accuracy. • Integrated JavaScript/React components into Flutter Web apps and enhanced PWA features (serviceworkers, caching, offline support) to deliver rich, responsive, and offline-capable web experiences. \n• Implemented CI/CD (GitHub Actions) pipeline, cutting deployment cycles by 50%.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Developer Intern - Intern Crowd",
-    duration: " 22nd March 23 - 22nd April 23",
-    desc: "• Accomplished three tasks successfully, including the development of a full-stack application. • Worked on Flutter, Firebase, and Dart technologies for seamless cross-platform mobile app development, real-time data synchronization, user authentication, and efficient code implementation.",
+    title: "Mobile App Developer Intern - ExpandX Pvt Ltd ",
+    duration: "1st Feb 23 - 31st March 23",
+    desc: "• Designed and implemented user interface (UI) for the ExpandX app, integrate REST API for allowing seamless communication between the app and external server/database. • Utilized Flutter framework and Dart programming language to develop and implement various features and functionalities of the ExpandX app. • Worked on Firebase for real-time data synchronization, authentication, and cloud storage, enhancing the overall performance and reliability of the app.",
     className: "md:col-span-2",
-    thumbnail: "/exp2.svg",
+    thumbnail: "/exp1.svg",
   },
 ];
 
