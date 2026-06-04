@@ -16,6 +16,9 @@ const geistMono = localFont({
 export const metadata: Metadata = {
   title: "Rajat's Portfolio",
   description: "Rajat's Portfolio",
+  verification: {
+    google: "5d0dv4QiqsQGRe3PvUm_IOYXp8N123th6IudzCtyOmo",
+  },
   icons: "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?t=st=1727782390~exp=1727785990~hmac=f17c89476d6fdd4fce07dba7164042b7040f839837e001aaa5d7dd3748905aab&w=826"
 };
 
